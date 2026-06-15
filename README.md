@@ -58,6 +58,11 @@ Run tests:
 
 npx detox test --configuration android.emu.debug
 
+# Test Document
+Following excel document exist for your reference 
+MyDetoxApp_Test1executionSummary
+MyDetoxApp_TestCases 
+
 
 # Troubleshooting
 
