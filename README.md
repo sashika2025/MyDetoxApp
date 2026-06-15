@@ -58,8 +58,8 @@ Run tests:
 
 npx detox test --configuration android.emu.debug
 
-# Test Document
-Following excel document exist for your reference 
+# Test Document 
+Following excel document exist for your reference under the doc folder
 MyDetoxApp_Test1executionSummary
 MyDetoxApp_TestCases 
 
